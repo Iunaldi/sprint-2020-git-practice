@@ -9,3 +9,8 @@ BMW
 Jaguar
 Bendley
 Jeep
+Lexus
+Ferrari
+Nissan
+Hyundai
+
